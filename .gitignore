@@ -73,7 +73,7 @@ output/
 results/
 
 # Generated reports
-Report*.md
+
 REPORTTEMPLATE.md
 historical_*_summary.json
 
